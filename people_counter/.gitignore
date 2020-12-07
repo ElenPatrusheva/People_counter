@@ -1,0 +1,19 @@
+# python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# weights
+*.weights
+
+# Weights
+people_tracker/yolo/data/darknet_weights/*
+!people_tracker/yolo/data/darknet_weights/readme.txt
+
+# Videos
+input/*
+!input/readme.txt
+output/*
+!output/readme.txt

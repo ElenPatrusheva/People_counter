@@ -1,0 +1,1 @@
+Folder is fully copied from https://github.com/Sarrasor/TrackingPeople
