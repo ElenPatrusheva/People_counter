@@ -41,7 +41,7 @@ docker exec -it trackingpeople_tracker_1 bash
 Then do whatever you want in the docker container:
 ```
 cd people_tracker
-python3 main_center.py ../input/video.mp4
+python3 main.py -i ../input/video.mp4 -o ../output/video_out.avi
 ```
 
 ## Used materials:
